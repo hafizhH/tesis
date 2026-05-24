@@ -1,0 +1,16 @@
+*backup
+*_old*
+
+# macOS
+.DS_Store
+
+# Python
+venv
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Keras Tuner trial weights
+*checkpoint.weights.h5
